@@ -1,0 +1,8 @@
+Searching for body
+In file poem.txt
+With the text:
+I'm nobody! Who are you?
+With the text:
+Are you nobody, too?
+With the text:
+How dreary to be somebody!
